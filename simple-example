@@ -1,5 +1,3 @@
-
-
 CREATE TABLE "Club" (
 	id_club numeric(10) NOT NULL,
 	name_club varchar(100) NULL,
